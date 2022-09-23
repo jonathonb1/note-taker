@@ -25,9 +25,10 @@ Note taking app that allows you to save and delete notes as needed.
 <img src="https://www.logolynx.com/images/logolynx/s_3b/3b9d42a73e06ccac04deb9073e5235ba.png" width="100" height="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902>" width="100" height="100">
 <img src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png" width="100" height="100">
-<img src="https://cledara-public.s3.eu-west-2.amazonaws.com/heroku.png" width="100" height="100">
+<img src="https://cdn.iconscout.com/icon/free/png-256/heroku-3521485-2944929.png" width="100" height="100">
 <img src="https://javabeat.net/wp-content/uploads/2015/09/expressjs.jpg" width="100" height="100">
---
+
+---
 
 Heroku Link: https://shrouded-springs-07678.herokuapp.com/
 
